@@ -1,5 +1,5 @@
 
-# Anime Sketch Colorization | Conditional GAN Implementation
+# Sketch to Image | Conditional GAN Implementation
 
 This repository contains my implementation of a **pix2pix** architecture (Conditional GAN) designed to automatically colorize hand-drawn anime sketches. By leveraging the power of adversarial training, the model learns the mapping from grayscale edge maps to vibrant, multi-colored illustrations.
 
